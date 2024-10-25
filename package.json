@@ -1,0 +1,31 @@
+{
+  "name": "sleek-components",
+  "version": "1.0.1",
+  "description": "Sleek Components is ideal for developers looking to maintain design coherence and accelerate their workflow without compromising on flexibility.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests specified\"",
+    "build": "echo \"No build step\"",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pawanshekhawat/sleek-components.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Pawan Shekhawat",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/pawanshekhawat/sleek-components/issues"
+  },
+  "homepage": "https://github.com/pawanshekhawat/sleek-components#readme",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "bin": {
+    "sleek-components": "./cli.js"
+  }
+}
